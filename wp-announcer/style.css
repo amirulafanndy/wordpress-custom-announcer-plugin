@@ -1,0 +1,15 @@
+#wp-announcer-bar {
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    z-index: 9999;
+}
+
+body {
+    padding-top: 30px;
+}
